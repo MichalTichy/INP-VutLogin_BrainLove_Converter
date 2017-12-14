@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace VutLogin_BranLove_Converter
+namespace VutLogin_BrainLove_Converter
 {
     public static class BrainLoveCodeGenerator
     {

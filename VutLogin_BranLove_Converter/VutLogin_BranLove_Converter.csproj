@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9E0F74B1-9CA0-4760-8698-5B13D2DFF4F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VutLogin_BranLove_Converter</RootNamespace>
-    <AssemblyName>VutLogin_BranLove_Converter</AssemblyName>
+    <RootNamespace>VutLogin_BrainLove_Converter</RootNamespace>
+    <AssemblyName>VutLogin_BrainLove_Converter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
